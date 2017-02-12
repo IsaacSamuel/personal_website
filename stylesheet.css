@@ -23,6 +23,7 @@ a {
 	line-height: 1.7;
 	float: left;
 	margin-bottom: 70px;
+	max-height: 540px;
 }
 
 p.title {
